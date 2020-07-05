@@ -9,6 +9,28 @@
   - Unity起動
   - Project作成
   - save scene
+- Chapter 1
+  - Ground
+    - make planes
+    - make GroundMaterial
+  - Wall
+    - make cube
+    - make WallMaterial
+    - set position and scale
+    - duplicate with rotate
+  - refactoring
+    - Asset>Material folder
+    - Hierarchy>Stage object
+    - make stageObject to static
+- Chapter 2
+  - make Player
+  - play the game
+  - add component Physics>Rigidbody
+  - add component PlayerController.cs
+  - edit PlayerController.cs
+    - Input
+    - add force to rigidbody
+    - make parameter for Inspector
 
 ## make environment
 

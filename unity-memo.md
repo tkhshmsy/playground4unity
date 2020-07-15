@@ -57,6 +57,15 @@
 - Chapter 6
   - make winnerLabel
   - set active winnerLabel after clearing the game
+- Chapter 7
+  - make DangerWall
+    - into prefab
+    - make DangerWallMaterial
+      - apply for DangerWall and apply all
+    - make DangerWalls from prefab
+    - set Static
+  - adjust environment light
+  - make restart with collision
 
 ## make environment
 

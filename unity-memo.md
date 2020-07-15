@@ -31,6 +31,11 @@
     - add force to rigidbody
     - make parameter for Inspector
 - update Unity 2019.4.2f1 -> 4.3f1
+- Chapter 3
+  - move camera with player
+  - main camera follows player
+    - set position
+    - add offset
 
 ## make environment
 

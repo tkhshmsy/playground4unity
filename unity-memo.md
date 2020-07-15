@@ -46,6 +46,14 @@
     - Player has Tag "Player"
     - destroy GameObject
     - apply all
+- Chapter 5
+  - make Canvas
+    - scale with screen size
+  - make ScoreLabel
+  - make GameController
+    - set tag "Item" to all Items
+    - GameController script
+      - counts of Items
 
 ## make environment
 

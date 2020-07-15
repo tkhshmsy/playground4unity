@@ -1,6 +1,5 @@
 # memo for studying Unity
 
-
 ## about tutorial: Roll-a-Ball
 
 - My First Unity 玉転がしゲーム
@@ -31,12 +30,14 @@
     - Input
     - add force to rigidbody
     - make parameter for Inspector
+- update Unity 2019.4.2f1 -> 4.3f1
 
 ## make environment
 
 - installed
   - Unity Hub
     - Unity 2019.4.2f1
+    - Unity 2019.4.3f1
   - GitHub Desktop
   - Visual Studio Code
     - UnityでVisual Studio Codeを使用できるようにするまでの手順

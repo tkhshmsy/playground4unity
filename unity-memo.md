@@ -36,6 +36,16 @@
   - main camera follows player
     - set position
     - add offset
+- Chapter 4
+  - make Item
+    - adjust scale
+  - prefab
+    - set
+    - onTriggerEnter
+      - with Tag
+    - Player has Tag "Player"
+    - destroy GameObject
+    - apply all
 
 ## make environment
 

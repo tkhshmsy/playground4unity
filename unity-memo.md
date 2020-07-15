@@ -54,6 +54,9 @@
     - set tag "Item" to all Items
     - GameController script
       - counts of Items
+- Chapter 6
+  - make winnerLabel
+  - set active winnerLabel after clearing the game
 
 ## make environment
 
